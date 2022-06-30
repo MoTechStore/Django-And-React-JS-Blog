@@ -1,0 +1,17 @@
+.App {
+  min-height: 100vh;
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+
+}
+
+.post_line{
+  overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double white;
+    color: white;
+    text-align: center;
+     
+}
